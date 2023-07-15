@@ -12,9 +12,9 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Sumit Kaushik</h1>
-- 🔭 I’m currently working on **Functional Testing**
+- 🔭 I’m currently working on **Functional Testing,Agile,JIRA,MYSQL,API Testing**
 
-- 🌱 I’m currently learning **Agile,JIRA,MYSQL,API Testing**
+- 🌱 I’m currently learning **automation**
 
 - 📫 How to reach me **pritam.2581996@gmail.com**
 
