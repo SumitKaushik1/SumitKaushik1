@@ -12,7 +12,7 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Sumit Kaushik</h1>
-- 🔭 I’m currently working on **Functional Testing,Agile,JIRA,MYSQL,API Testing**
+- 🔭 I’m currently working on **Functional Testing   ,Agile , JIRA , MYSQL ,API Testing, Core Java**
 
 - 🌱 I’m currently learning **automation**
 
