@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Kaushik</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkaushik1&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkaushik1" /> </p>
-
+![](https://github-trophies.vercel.app/?username=yourusername)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitkaushik1" alt="sumitkaushik1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/pritam_2581996" target="blank"><img src="https://img.shields.io/twitter/follow/pritam_2581996?logo=twitter&style=for-the-badge" alt="pritam_2581996" /></a> </p>
