@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/pritam_2581996" target="blank"><img src="https://img.shields.io/twitter/follow/pritam_2581996?logo=twitter&style=for-the-badge" alt="pritam_2581996" /></a> </p>
 
-- 🔭 I’m currently working on ****Functional Testing ,Agile , JIRA , MYSQL ,API Testing, Core Java****
+- 🔭 I’m currently working on ****Functional Testing,Database testing ,Agile , JIRA , MYSQL ,API Testing, Core Java****
 
 - 🌱 I’m currently learning **automation**
 
