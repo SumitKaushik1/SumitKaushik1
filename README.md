@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **automation**
 
-- 📫 How to reach me **sk63959239@gmail.com**
+- 📫 How to reach me **pritam.2581996@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
